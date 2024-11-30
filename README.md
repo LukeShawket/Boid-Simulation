@@ -1,4 +1,4 @@
-• Rulesbr/Basic models of flocking behaviour are controlled by three simple rules:
+• Rules< br / >Basic models of flocking behaviour are controlled by three simple rules:
 
 • Separation
 Avoid crowding neighbours (short range repulsion)
