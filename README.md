@@ -1,3 +1,4 @@
+# Boid Simulation
 This Godot script simulates a flock of boids exhibiting realistic behavior such as separation, alignment, and cohesion. The script uses ray casting to detect obstacles and adjust the boids' movement accordingly.   
 
 Features    
