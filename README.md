@@ -1,5 +1,5 @@
 # Boid Simulation
-This Godot script simulates a flock of boids exhibiting realistic behavior such as separation, alignment, and cohesion. The script uses ray casting to detect obstacles and adjust the boids' movement accordingly.   
+This Godot script simulates a flock of boids exhibiting realistic behavior such as separation, alignment, and cohesion.     
 # Screenshots:
 ![1](https://github.com/user-attachments/assets/567aa99d-1631-4c08-8fcc-c6f38b192d58)
 ![2](https://github.com/user-attachments/assets/74f1553f-a1d1-4670-90f9-10f0fe84ec2c)
@@ -16,23 +16,6 @@ Features
 
 • Mouse Avoidance: Boids avoid the mouse cursor when right-clicked.
 
-Parameters    
-
-• min_speed: Minimum speed of the boids.
-
-• max_speed: Maximum speed of the boids.
-
-• keep_distance: Distance boids try to maintain from each other.
-
-• alignment_weight: Influence of alignment on boid steering.
-
-• seperation_weight: Influence of separation on boid steering.
-
-• cohesion_weight: Influence of cohesion on boid steering.
-
-• collision_weight: Influence of collision avoidance on boid steering.
-
-• mouse_avoid_distance: Distance at which boids start to avoid the mouse cursor.
 
 Usage    
 
@@ -48,4 +31,4 @@ Usage
 
 3. Run the Simulation:
 
-• Start the project to see the boids in action. They will exhibit realistic flocking behavior and avoid obstacles, including the mouse cursor when right-clicked.
+• Start the project to see the boids in action.
